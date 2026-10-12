@@ -1,0 +1,14 @@
+{
+  "name": "アイカツ！アンコール カード管理",
+  "short_name": "アイカツ管理",
+  "description": "アイカツ！アンコールの所持カード・欲しいカード・交換カードを管理",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff2f8",
+  "theme_color": "#fff2f8",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
